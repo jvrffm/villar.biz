@@ -168,7 +168,7 @@ body {
   background-color: #fff; }
 
 a {
-  color: #4078c0;
+  color: rgba(0, 0, 255, 0.7);
   text-decoration: none; }
 
 a:hover, a:active {
