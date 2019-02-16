@@ -180,7 +180,7 @@ hr, .rule {
   overflow: hidden;
   background: transparent;
   border: 0;
-  border-bottom: 1px solid #ddd; }
+  border-bottom: 1px solid #dddddd; }
 
 hr:before, .rule:before {
   display: table;
@@ -198,7 +198,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600; }
 
 h1, h2 {
-  border-bottom: 1px solid #0079A4; }
+  border-bottom: 1px solid gray; }
 
 h1 {
   font-size: 32px;
